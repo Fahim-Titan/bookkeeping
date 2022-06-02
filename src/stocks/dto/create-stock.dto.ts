@@ -1,5 +1,1 @@
-export class CreateStockDto {
-    name: string;
-    ticker: string;
-    description?: string;
-}
+export class CreateStockDto {}
